@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Sarath from GITHUB!");
-            //Code is added in Visual Studio
+            //Code is added in Visual Studio new
         }
     }
 }
